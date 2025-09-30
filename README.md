@@ -8,7 +8,6 @@ I am interested in using high-throughput microbiome and metagenomic sequencing, 
 - 👶 Microbiome transmission between environments, focusing on vertical transfer from mother to offspring at birth and horizontal transfer between individuals sharing the same environment. 
 - 🦠 Microbiome influence on pathogen virulence and antibiotic resistance in infections by integrating longitudinal microbiome and pathogen sequencing.  
 
-Previously, I was a Research Assistant at [Michael Okpara University of Agriculture](https://mouau.edu.ng) in Nigeria, where I worked on dietary modulation of the rumen microbiome to mitigate ruminant enteric methane emissions. I also received my Master of Science in Animal Science from [University of Nigeria](https://www.unn.edu.ng), and Bachelor of Agricultural Technology from [Federal University of Technology Owerri](https://futo.edu.ng).
----
+Previously, I was a Research Assistant at [Michael Okpara University of Agriculture](https://mouau.edu.ng) in Nigeria, where I worked on dietary modulation of the rumen microbiome to mitigate ruminant enteric methane emissions. I also received Master of Science degree in Animal Science from [University of Nigeria](https://www.unn.edu.ng), and Bachelor of Agricultural Technology in Animal Science from [Federal University of Technology Owerri](https://futo.edu.ng).
 
 I'm always open to discussing science and exploring collaboration opportunities. Feel free to contact me via email.
