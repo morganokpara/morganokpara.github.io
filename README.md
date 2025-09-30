@@ -1,6 +1,7 @@
 **Hello, I’m Morgan**
 
-I am a graduate student in the [Host Microbe Interactions MSc program](https://hosmic.uth.gr), at the University of Thessaly Greece, where I am fortunate to work with Professor Konstantinos (Kostas) kormas at the [Microbial Communities and Habitats in Aquatic Environments Laboratory (MiCHAEL)](https://sites.google.com/site/kkormas).
+I am a graduate student in the [Host Microbe Interactions MSc program](https://hosmic.uth.gr), at the University of Thessaly Greece, where I am fortunate to work with Professor Konstantinos (Kostas) kormas at the [Microbial Communities and Habitats in Aquatic Environments Laboratory (MiCHAEL)](https://sites.google.com/site/kkormas), where I stdudied bovine gut microbial composition and structure using 16S rRNA gene sequencing and bioinformatics.
+
 I am interested in using high-throughput microbiome and metagenomic sequencing, along with novel computational methods, to study how humans and animals interact with their microbiomes, particularly:
 - 🧬 Use of next-generation computational metagenomic tools that enables high-resolution microbiome profiling and large-scale comparative genomics of uncharacterized microbes.  
 - 👶 Microbiome transmission between environments, focusing on vertical transfer from mother to offspring at birth and horizontal transfer between individuals sharing the same environment. 
