@@ -3,7 +3,10 @@ layout: default
 title: Home
 ---
 
-## About Me
+## Morgan Okpara
+- [Projects](projects.md)  
+- [Publications](publications.md)  
+- [Contact](contact.md)
 
 Hello! I’m **Morgan Okpara**, currently pursuing my MSc at the University of Thessaly, Greece.
 
