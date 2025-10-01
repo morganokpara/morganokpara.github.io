@@ -9,4 +9,4 @@ I am interested in using high-throughput microbiome and metagenomic sequencing, 
 
 Previously, I was a Research Assistant at [Michael Okpara University of Agriculture](https://mouau.edu.ng) in Nigeria, where I worked on dietary modulation of the rumen microbiome. I also received Master of Science degree in Animal Science from [University of Nigeria](https://www.unn.edu.ng), and Bachelor of Agriculture degree in Animal Science from [Federal University of Technology Owerri](https://futo.edu.ng).
 
-I'm always open to discussing science and exploring collaboration opportunities. Feel free to contact me via email.
+I'm always open to discussing science and exploring collaboration opportunities. Feel free to contact me via email..
