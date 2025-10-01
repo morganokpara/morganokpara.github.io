@@ -1,12 +1,8 @@
 ---
 layout: default
-title: Morgan Okpar
+title: MO
 ---
 [Publications](publications.md)                    [Projects](projects.md)
-
----
-title: Morgan Okpara
----
 
 <style>
 #profile-box {
