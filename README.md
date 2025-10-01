@@ -1,68 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Morgan Okpara</title>
-  <style>
-    * {
-      box-sizing: border-box;
-    }
-
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      display: flex;
-      min-height: 100vh;
-    }
-
-    .sidebar {
-      width: 260px;
-      background-color: #f8f8f8;
-      padding: 30px 20px;
-      box-shadow: 2px 0 5px rgba(0,0,0,0.05);
-    }
-
-    .sidebar img {
-      width: 100%;
-      border-radius: 50%;
-      margin-bottom: 20px;
-    }
-
-    .sidebar h2 {
-      margin: 0 0 10px;
-    }
-
-    .sidebar p {
-      font-size: 14px;
-      color: #444;
-      margin-bottom: 20px;
-    }
-
-    .sidebar a {
-      display: block;
-      margin: 8px 0;
-      text-decoration: none;
-      color: #0366d6;
-      font-size: 14px;
-    }
-
-    .sidebar a:hover {
-      text-decoration: underline;
-    }
-
-    .content {
-      flex: 1;
-      padding: 40px;
-      background-color: #fff;
-    }
-
-    .content h1 {
-      margin-top: 0;
-    }
-  </style>
-</head>
-<body>
 
   <div class="sidebar">
     <img src="https://avatars.githubusercontent.com/morganokpara" alt="Morgan Okpara" />
@@ -75,7 +10,9 @@
   </div>
 
   <div class="content">
-    <h1>Moragn Okpara</h1>
+    <h1>Morgan Okpara</h1>
+    <h1>Publications</h1>
+    <h1>Projects</h1>
     <p>**Hello, I’m Morgan**
 
 I am a graduate student in the [Host Microbe Interactions MSc program](https://hosmic.uth.gr), at the University of Thessaly Greece, where I am fortunate to work with Professor Konstantinos (Kostas) kormas at the [Microbial Communities and Habitats in Aquatic Environments Laboratory (MiCHAEL)](https://sites.google.com/site/kkormas), where I studied bovine gut microbial composition and structure using 16S rRNA gene sequencing and bioinformatics.
