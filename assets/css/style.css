@@ -1,0 +1,15 @@
+.bio-sidebar {
+  float: left;
+  width: 250px;
+  margin: 20px;
+}
+
+.bio-photo img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+}
+
+/* Add the rest of your sidebar CSS here */
