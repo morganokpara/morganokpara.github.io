@@ -48,3 +48,77 @@ I'm always open to discussing science and exploring collaboration opportunities.
     </ul>
   </div>
 </div>
+
+
+/* Container for the layout: adjust according to your existing wrapper */
+.site-wrapper {
+  display: flex;
+  align-items: flex-start;
+}
+
+/* Sidebar styling */
+.bio-sidebar {
+  width: 250px;
+  padding: 1rem;
+  flex-shrink: 0;
+  /* Optional: fix position on scroll */
+  position: sticky;
+  top: 1rem;
+}
+
+/* Photo */
+.bio-photo {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.bio-photo img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+}
+
+/* Info section */
+.bio-info {
+  /* you can adjust */
+}
+
+.bio-name {
+  margin: 0;
+  font-size: 1.4rem;
+}
+
+.bio-title {
+  margin: 0.3rem 0 1rem;
+  font-size: 1rem;
+  color: #555;
+}
+
+/* Link list */
+.bio-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.bio-links li {
+  margin-bottom: 0.5rem;
+}
+
+.bio-links a {
+  color: #0366d6;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.bio-links a:hover {
+  text-decoration: underline;
+}
+
+/* Main content should fill remaining space */
+.main-content {
+  flex: 1;
+  padding: 1rem;
+}
