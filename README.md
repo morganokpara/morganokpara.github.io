@@ -59,11 +59,6 @@
     <a href="https://twitter.com/yourprofile" target="_blank">🐦 Twitter</a>
   </div>
 
-  <div class="content">
-    <h1>Welcome to My GitHub Pages Site</h1>
-    <p>This is the main content area. You can write blog posts, showcase projects, or anything else here.</p>
-  </div>
-
 </body>
 </html>
 
