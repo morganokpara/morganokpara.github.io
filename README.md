@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Your Name</title>
   <style>
     body {
@@ -9,7 +10,6 @@
       font-family: Arial, sans-serif;
       display: flex;
     }
-
     .sidebar {
       width: 250px;
       background-color: #f5f5f5;
@@ -17,50 +17,63 @@
       box-shadow: 2px 0 5px rgba(0,0,0,0.1);
       height: 100vh;
     }
-
     .sidebar img {
       width: 100%;
       border-radius: 50%;
       margin-bottom: 15px;
     }
-
     .sidebar h2 {
-      margin: 0;
+      margin: 0 0 10px 0;
     }
-
     .sidebar p {
       font-size: 14px;
       color: #333;
     }
-
     .sidebar a {
       display: block;
-      color: #0366d6;
+      margin: 8px 0;
       text-decoration: none;
-      margin: 5px 0;
-      font-size: 14px;
+      color: #0366d6;
     }
-
+    .sidebar a:hover {
+      text-decoration: underline;
+    }
     .content {
       flex: 1;
       padding: 40px;
+      overflow: auto;
     }
   </style>
 </head>
 <body>
 
   <div class="sidebar">
-    <img src="https://avatars.githubusercontent.com/your-username" alt="Your Name">
+    <img src="path-to-your-photo.jpg" alt="Your Name">
     <h2>Your Name</h2>
-    <p>Self-taught web developer with a passion for open source and learning by doing.</p>
-    <a href="mailto:you@example.com">📧 you@example.com</a>
+    <p>Short bio or tagline goes here.</p>
+    <a href="mailto:you@example.com">📧 Email</a>
     <a href="https://github.com/your-username" target="_blank">💻 GitHub</a>
-    <a href="https://linkedin.com/in/yourprofile" target="_blank">💼 LinkedIn</a>
+    <a href="https://linkedin.com/in/yourprofile" target="_blank">🔗 LinkedIn</a>
     <a href="https://twitter.com/yourprofile" target="_blank">🐦 Twitter</a>
+  </div>
+
+  <div class="content">
+    <h1>Welcome to My Page</h1>
+    <p>Here is where your main content appears.</p>
+
+    <h2>About Me</h2>
+    <p>Write more about yourself here, your background, etc.</p>
+
+    <h2>Latest / Projects</h2>
+    <ul>
+      <li>Project A — description</li>
+      <li>Project B — description</li>
+    </ul>
   </div>
 
 </body>
 </html>
+
 
 **Hello, I’m Morgan**
 
