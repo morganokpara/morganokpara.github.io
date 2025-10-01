@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Morgan Okpara
+title: Morgan Okpar
 ---
 [Publications](publications.md)                    [Projects](projects.md)
 
