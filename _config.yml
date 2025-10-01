@@ -1,2 +1,14 @@
 title: Morgan Okpara
 theme: minima
+
+# _config.yml
+title: "Morgan Okpara"
+description: "MSc Student, University of Thessaly"
+# If using a theme or remote theme, you can set it here, but for now we'll roll a custom layout
+# theme: minima
+
+# baseurl and url
+baseurl: ""        # if your site is at root of github.io
+url: "https://morganokpara.github.io"
+
+# Optional: any other site-wide vars you want
