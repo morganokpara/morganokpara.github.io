@@ -5,7 +5,7 @@ title: Home
 
 ## Morgan Okpara     - [Publications](publications.md)      - [Projects](projects.md)
 
-Hello! I’m **Morgan Okpara**, currently pursuing my MSc at the University of Thessaly, Greece.
+Hello! I’m **Morgan Okpara**, currently pursuing my MSc at the [University of Thessaly, Greece](https://www.uth.gr/en).
 
 I’m interested in AI, machine learning, data science, and computational modeling.  
 I work on projects involving ... (your research, interests, etc.)
