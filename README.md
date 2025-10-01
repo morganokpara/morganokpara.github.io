@@ -1,18 +1,3 @@
-  <div class="sidebar">
-    <img src="https://x.com/morganokpara/photo/morganokpara" alt="Morgan Okpara">
-    <h2>Your Name</h2>
-    <p>Self-taught web developer with a passion for open source and learning by doing.</p>
-    <a href="mailto:mokpara@uth.gr">📧 Email</a>
-    <a href="https://github.com/morganokpara" target="_blank">💻 GitHub</a>
-    <a href="https://linkedin.com/in/morgan-o-okpara-66a23325" target="_blank">💼 LinkedIn</a>
-    <a href="https://twitter.com/morganokpara" target="_blank">🐦 Twitter</a>
-    <a href="https://bsky.app/profile/morganokpara.bsky.social" target="_blank">💻 Bluesky</a>
-  </div>
-
-  <div class="content">
-    <h1>Welcome to My GitHub Pages Site</h1>
-
-
 **Hello, I’m Morgan**
 
 I am a graduate student in the [Host Microbe Interactions MSc program](https://hosmic.uth.gr), at the University of Thessaly Greece, where I am fortunate to work with Professor Konstantinos (Kostas) kormas at the [Microbial Communities and Habitats in Aquatic Environments Laboratory (MiCHAEL)](https://sites.google.com/site/kkormas), where I studied bovine gut microbial composition and structure using 16S rRNA gene sequencing and bioinformatics.
