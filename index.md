@@ -32,5 +32,17 @@ I'm always open to discussing science and exploring collaboration opportunities.
     </ul>
   </div>
 
+  <body>
+  <div class="site-wrapper">
+    <!-- Bio sidebar goes here -->
+    <div class="bio-sidebar"> … </div>
+
+    <div class="main-content">
+      <!-- Your current content (posts, intro, etc.) -->
+    </div>
+  </div>
+</body>
+
+
   <!-- Right Content (Bio) -->
   <div style="padding-left: 20px;">
