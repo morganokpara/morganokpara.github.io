@@ -1,5 +1,23 @@
 ---
 layout: default
+title: Home
+---
+
+## About Me
+
+Hello! I’m **Morgan Okpara**, currently pursuing my MSc at the University of Thessaly, Greece.
+
+I’m interested in AI, machine learning, data science, and computational modeling.  
+I work on projects involving ... (your research, interests, etc.)
+
+You can also link to other pages:
+
+- [Projects](projects.md)  
+- [Publications](publications.md)  
+- [Contact](contact.md)
+
+---
+layout: default
 ---
 
 <div style="display: flex; max-width: 1000px; margin: auto; padding: 20px; font-family: sans-serif;">
