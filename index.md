@@ -32,17 +32,19 @@ I'm always open to discussing science and exploring collaboration opportunities.
     </ul>
   </div>
 
-  <body>
-  <div class="site-wrapper">
-    <!-- Bio sidebar goes here -->
-    <div class="bio-sidebar"> … </div>
-
-    <div class="main-content">
-      <!-- Your current content (posts, intro, etc.) -->
-    </div>
+<!-- Bio sidebar -->
+<div class="bio-sidebar">
+  <div class="bio-photo">
+    <img src="assets/img/profile.jpg" alt="Morgan Okpara" />
   </div>
-</body>
-
-
-  <!-- Right Content (Bio) -->
-  <div style="padding-left: 20px;">
+  <div class="bio-info">
+    <h1 class="bio-name">Morgan Okpara</h1>
+    <p class="bio-title">MSc Student, University of Thessaly, Greece</p>
+    <ul class="bio-links">
+      <li><a href="mailto:youremail@example.com">Email</a></li>
+      <li><a href="https://twitter.com/your_twitter">Twitter</a></li>
+      <li><a href="https://github.com/your_github">GitHub</a></li>
+      <li><a href="https://scholar.google.com/citations?user=your_scholar_id">Google Scholar</a></li>
+    </ul>
+  </div>
+</div>
