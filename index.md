@@ -34,35 +34,3 @@ I'm always open to discussing science and exploring collaboration opportunities.
 
   <!-- Right Content (Bio) -->
   <div style="padding-left: 20px;">
-
-  <div class="top-left-info">
-  <p><strong>Morgan Okpara</strong><br>
-  MSc Student, University of Thessaly, Greece</p>
-  <p>
-    <a href="mailto:your-email@example.com">Email</a> |
-    <a href="https://twitter.com/yourhandle">Twitter</a> |
-    <a href="https://github.com/morganokpara">GitHub</a> |
-    <a href="https://scholar.google.com/citations?user=yourID">Google Scholar</a>
-  </p>
-</div>
-
-.top-left-info {
-  position: absolute;
-  top: 1rem;
-  left: 1rem;
-  max-width: 250px;
-  font-size: 14px;
-  color: #333;
-}
-
-.top-left-info a {
-  color: #0066cc;
-  text-decoration: none;
-}
-
-.top-left-info a:hover {
-  text-decoration: underline;
-}
-
-    
-    
