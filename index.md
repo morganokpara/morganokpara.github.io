@@ -18,9 +18,7 @@ Previously, I was a Research Assistant at [Michael Okpara University of Agricult
 I'm always open to discussing science and exploring collaboration opportunities. Feel free to contact me via email..
 
 **News**
-<div class="News">
-This text will be bigger!
-</div>
+
 
 <div style="display: flex; max-width: 1000px; margin: auto; padding: 20px; font-family: sans-serif;">
 
