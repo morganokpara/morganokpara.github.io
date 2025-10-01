@@ -60,6 +60,8 @@ I'm always open to discussing science and exploring collaboration opportunities.
 
 **News**
 
+[2024.09] Our paper “[Understanding the Impact of Diet, Host Genetics and Early Life Interventions on Rumen Microbiome](https://njap.org.ng/index.php/njap/article/view/7354)” has been published by the Nigerian Journal of Animal Production!
+
 [2023.10] I am thrilled to join the [Microbial Communities and Habitats in Aquatic  Environments Laboratory (MiCHAEL)](https://sites.google.com/site/kkormas) at University of Thessaly in Greece as a Masters degree student!
 
 <div style="display: flex; max-width: 1000px; margin: auto; padding: 20px; font-family: sans-serif;">
