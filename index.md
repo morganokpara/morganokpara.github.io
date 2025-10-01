@@ -4,6 +4,54 @@ title: Morgan Okpar
 ---
 [Publications](publications.md)                    [Projects](projects.md)
 
+---
+title: Morgan Okpara
+---
+
+<style>
+#profile-box {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  max-width: 250px;
+  font-family: Arial, sans-serif;
+  background: #f8f8f8;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  z-index: 1000;
+}
+#profile-box img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  display: block;
+  margin-bottom: 10px;
+}
+#profile-box a {
+  color: #0366d6;
+  text-decoration: none;
+}
+#profile-box a:hover {
+  text-decoration: underline;
+}
+</style>
+
+<div id="profile-box">
+  <img src="https://github.com/morganokpara.png" alt="Morgan Okpara" />
+  <strong>Morgan Okpara</strong><br>
+  <span>morganokpara</span><br><br>
+
+  Researcher at the University of Thessaly, Greece.<br>
+  University of Thessaly, Greece<br>
+  Volos, Thessaly<br><br>
+
+  <a href="https://sites.google.com/site/kkormas/" target="_blank">Personal Website</a><br>
+  <a href="https://bsky.app/profile/morganokpara.bsky.social" target="_blank">@morganokpara.bsky.social</a><br>
+  <a href="https://bsky.app/profile/morganokpara" target="_blank">@morganokpara</a>
+</div>
+
+
 **Hello, I’m Morgan**
 
 I am a graduate student in the [Host Microbe Interactions MSc program](https://hosmic.uth.gr), at the University of                        Thessaly Greece, where I am fortunate to work with [Professor Konstantinos (Kostas) kormas](http://diae.uth.gr/Home/ViewProfile?link=kormas-konstantinos-kathigitis-dr_5) at the [Microbial Communities and Habitats in Aquatic  Environments Laboratory (MiCHAEL)](https://sites.google.com/site/kkormas), where I studied bovine gut microbial composition and structure using 16S rRNA gene sequencing and bioinformatics.
