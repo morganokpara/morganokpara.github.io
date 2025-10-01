@@ -40,9 +40,10 @@ title: MO
 
   MSc student at the University of Thessaly, Greece.<br>
   
-  <a href="https://sites.google.com/site/kkormas/" target="_blank">Personal Website</a><br>
-  <a href="https://bsky.app/profile/morganokpara.bsky.social" target="_blank">@morganokpara.bsky.social</a><br>
-  <a href="https://bsky.app/profile/morganokpara" target="_blank">@morganokpara</a>
+  <a href="mailto:your.email@example.com" target="_blank">Email</a><br>
+  <a href="https://github.com/morganokpara" target="_blank">Github</a><br>
+  <a href="https://bsky.app/profile/morganokpara.bsky.social" target="_blank">Bluesky</a><br>
+  <a href="https://twitter.com/morganokpara" target="_blank">Twitter</a>
 </div>
 
 **Hello, I’m Morgan**
