@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-
 [Publications](publications.md)                    [Projects](projects.md)
 
 **Hello, I’m Morgan**
