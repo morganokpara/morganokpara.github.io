@@ -2,7 +2,7 @@
 layout: default
 title: MO
 ---
-[Publications](publications.md)                    [Projects](projects.md)
+[Publications](publications.md)  [Projects](projects.md)  [Courses](courses.md)
 
 <style>
 #profile-box {
