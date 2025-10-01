@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Morgan Okpara
 ---
 [Publications](publications.md)                    [Projects](projects.md)
 
