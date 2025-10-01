@@ -36,7 +36,6 @@ title: MO
 <div id="profile-box">
   <img src="https://github.com/morganokpara.png" alt="Morgan Okpara" />
   <strong>Morgan Okpara</strong><br>
-  <span>morganokpara</span><br><br>
 
   MSc student at the University of Thessaly, Greece.<br>
   
