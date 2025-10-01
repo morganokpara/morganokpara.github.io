@@ -1,7 +1,3 @@
----
-layout: default
-title: MO
----
 [Publications](publications.md)  [Projects](projects.md)  [Courses](courses.md)
 
 <style>
