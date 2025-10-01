@@ -4,16 +4,9 @@ title: Morgan Okpar
 ---
 [Publications](publications.md)                    [Projects](projects.md)
 
-![ChatGPT Image Jun 2, 2025, 06_47_01 PM](https://github.com/user-attachments/assets/a628e2b6-f3ec-48d7-827a-6025ddcf0e02)
-Morgan Okpara
-MSc Student, University of Thessaly, Greece
+**Hello, I’m Morgan**
 
-Email
-Twitter
-GitHub
-Google Scholar               **Hello, I’m Morgan**
-
-                    I am a graduate student in the [Host Microbe Interactions MSc program](https://hosmic.uth.gr), at the University of                        Thessaly Greece, where I am fortunate to work with [Professor Konstantinos (Kostas) kormas](http://diae.uth.gr/Home/ViewProfile?link=kormas-konstantinos-kathigitis-dr_5) at the [Microbial Communities and Habitats in Aquatic  Environments Laboratory (MiCHAEL)](https://sites.google.com/site/kkormas), where I studied bovine gut microbial composition and structure using 16S rRNA gene sequencing and bioinformatics.
+I am a graduate student in the [Host Microbe Interactions MSc program](https://hosmic.uth.gr), at the University of                        Thessaly Greece, where I am fortunate to work with [Professor Konstantinos (Kostas) kormas](http://diae.uth.gr/Home/ViewProfile?link=kormas-konstantinos-kathigitis-dr_5) at the [Microbial Communities and Habitats in Aquatic  Environments Laboratory (MiCHAEL)](https://sites.google.com/site/kkormas), where I studied bovine gut microbial composition and structure using 16S rRNA gene sequencing and bioinformatics.
 
 I am interested in using high-throughput microbiome and metagenomic sequencing, along with novel computational methods, to study how humans and animals interact with their microbiomes, particularly:
 - 🧬 Use of next-generation computational metagenomic tools that enables high-resolution microbiome profiling and large-scale comparative genomics of uncharacterized microbes.  
