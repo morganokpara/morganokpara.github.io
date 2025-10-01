@@ -59,7 +59,7 @@ Previously, I was a Research Assistant at [Michael Okpara University of Agricult
 I'm always open to discussing science and exploring collaboration opportunities. Feel free to contact me via email..
 
 **News**
-
+[2023.10] I am thrilled to join the [Microbial Communities and Habitats in Aquatic  Environments Laboratory (MiCHAEL)](https://sites.google.com/site/kkormas) at University of Thessaly in Greece as a Masters degree student!
 
 <div style="display: flex; max-width: 1000px; margin: auto; padding: 20px; font-family: sans-serif;">
 
