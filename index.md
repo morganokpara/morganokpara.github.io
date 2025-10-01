@@ -18,8 +18,6 @@ layout: default
 <div style="display: flex; max-width: 1000px; margin: auto; padding: 20px; font-family: sans-serif;">
 
   <!-- Left Sidebar -->
-  <img src="https://avatars.githubusercontent.com/morganokpara" alt="Morgan Okpara" />
-    <h2>Morgan Okpara</h2>
   <div style="width: 250px; flex-shrink: 0; padding-right: 20px; border-right: 1px solid #ccc;">
     <h2>Morgan Okpara</h2>
     <p><em>MSc Student, University of Thessaly, Greece</em></p>
