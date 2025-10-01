@@ -38,11 +38,5 @@ layout: default
 
   <!-- Right Content (Bio) -->
   <div style="padding-left: 20px;">
-    <h1>About Me</h1>
-    <p>
-      I am an MSc student at the University of Thessaly, Greece, with a keen interest in AI, machine learning, and data science.
-      I work on projects involving computational modeling and data analysis, and I'm passionate about using AI for scientific discovery.
-    </p>
-  </div>
-
-</div>
+    
+    
