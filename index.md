@@ -38,15 +38,12 @@ title: MO
   <strong>Morgan Okpara</strong><br>
   <span>morganokpara</span><br><br>
 
-  Researcher at the University of Thessaly, Greece.<br>
-  University of Thessaly, Greece<br>
-  Volos, Thessaly<br><br>
-
+  MSc student at the University of Thessaly, Greece.<br>
+  
   <a href="https://sites.google.com/site/kkormas/" target="_blank">Personal Website</a><br>
   <a href="https://bsky.app/profile/morganokpara.bsky.social" target="_blank">@morganokpara.bsky.social</a><br>
   <a href="https://bsky.app/profile/morganokpara" target="_blank">@morganokpara</a>
 </div>
-
 
 **Hello, I’m Morgan**
 
