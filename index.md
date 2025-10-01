@@ -69,15 +69,4 @@ I'm always open to discussing science and exploring collaboration opportunities.
 
 <div style="display: flex; max-width: 1000px; margin: auto; padding: 20px; font-family: sans-serif;">
 
-  <!-- Left Sidebar -->
-  <div style="width: 250px; flex-shrink: 0; padding-right: 20px; border-right: 1px solid #ccc;">
-    <h2>Morgan Okpara</h2>
-    <p><em>MSc Student, University of Thessaly, Greece</em></p>
-    <ul style="list-style: none; padding-left: 0;">
-      <li><a href="mailto:your.email@example.com">Email</a></li>
-      <li><a href="https://twitter.com/YOUR_HANDLE">Twitter</a></li>
-      <li><a href="https://github.com/morganokpara">GitHub</a></li>
-      <li><a href="https://scholar.google.com/citations?user=YOUR_ID">Google Scholar</a></li>
-    </ul>
-  </div>
-
+ 
