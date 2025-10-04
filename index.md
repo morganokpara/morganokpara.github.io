@@ -1,45 +1,75 @@
 [Publications](publications.md)  [Projects](projects.md)  [Courses](courses.md)
-
 <style>
 #profile-box {
   position: fixed;
-  top: 10px;
-  left: 10px;
-  max-width: 250px;
+  top: 20px;
+  left: 20px;
+  width: 200px;
+  text-align: center;
   font-family: Arial, sans-serif;
-  background: #f8f8f8;
-  padding: 15px;
-  border-radius: 8px;
-  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  background-color: #ffffff;
+  padding: 20px 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
   z-index: 1000;
 }
+
 #profile-box img {
-  width: 80px;
-  height: 80px;
+  width: 160px;
+  height: 160px;
   border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #222;
+  margin-bottom: 15px;
+}
+
+#profile-box strong {
   display: block;
+  font-size: 1.2rem;
   margin-bottom: 10px;
 }
-#profile-box a {
+
+#profile-box .bio {
+  font-size: 0.9rem;
+  color: #555;
+  margin-bottom: 15px;
+}
+
+#profile-box .social-icons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+#profile-box .social-icons a {
+  font-size: 0.85rem;
   color: #0366d6;
   text-decoration: none;
+  border: 1px solid #0366d6;
+  padding: 4px 8px;
+  border-radius: 4px;
+  transition: background 0.3s ease;
 }
-#profile-box a:hover {
-  text-decoration: underline;
+
+#profile-box .social-icons a:hover {
+  background: #0366d6;
+  color: white;
 }
 </style>
 
 <div id="profile-box">
   <img src="https://github.com/morganokpara.png" alt="Morgan Okpara" />
-  <strong>Morgan Okpara</strong><br>
-
-  MSc student at the University of Thessaly, Greece.<br>
-  
-  <a href="mailto:your.email@example.com" target="_blank">Email</a><br>
-  <a href="https://github.com/morganokpara" target="_blank">Github</a><br>
-  <a href="https://bsky.app/profile/morganokpara.bsky.social" target="_blank">Bluesky</a><br>
-  <a href="https://twitter.com/morganokpara" target="_blank">Twitter</a>
+  <strong>Morgan Okpara</strong>
+  <div class="bio">MSc student at the University of Thessaly, Greece.</div>
+  <div class="social-icons">
+    <a href="mailto:morganokpara@gmail.com" target="_blank">Email</a>
+    <a href="https://github.com/morganokpara" target="_blank">GitHub</a>
+    <a href="https://bsky.app/profile/morganokpara.bsky.social" target="_blank">Bluesky</a>
+    <a href="https://twitter.com/morganokpara" target="_blank">Twitter</a>
+  </div>
 </div>
+
 
 **Hello, I’m Morgan**
 
