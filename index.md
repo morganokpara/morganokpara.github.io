@@ -1,11 +1,3 @@
----
-layout: home
-title: "Home"
----
-
-Hello! I’m **Morgan Okpara**.  
-Welcome to my personal site.
-
 [Publications](publications.md)  [Projects](projects.md)  [Courses](courses.md)
 
 <style>
