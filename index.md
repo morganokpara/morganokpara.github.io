@@ -1,5 +1,3 @@
-[Home](/) | [Publications](/publications/) | [Projects](/projects/) | [Courses](/courses/)
-
 <style>
 #profile-box {
   position: fixed;
