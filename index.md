@@ -1,4 +1,3 @@
-[Publications](publications.md)  [Projects](projects.md)  [Courses](courses.md)
 <style>
 #profile-box {
   position: fixed;
