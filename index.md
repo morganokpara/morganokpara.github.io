@@ -1,3 +1,5 @@
+[Home](/) | [Publications](/publications/) | [Projects](/projects/) | [Courses](/courses/)
+
 <style>
 #profile-box {
   position: fixed;
@@ -68,7 +70,6 @@
     <a href="https://twitter.com/morganokpara" target="_blank">Twitter</a>
   </div>
 </div>
-
 
 **Hello, I’m Morgan**
 
