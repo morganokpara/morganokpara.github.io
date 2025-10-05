@@ -12,6 +12,6 @@ Currently, my research in the [Microbial Communities and Habitats in Aquatic Env
 
 
 - Hosts and how they interact with their microbial communities.
-- Investigating the transmission and acquisition patterns of human microbiota.
-- Microbiome influences pathogen virulence and antibiotic resistance.
+- Transmission and acquisition patterns of microbiota.
+- Microbiome influence on pathogen virulence and antibiotic resistance.
   
